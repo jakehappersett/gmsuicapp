@@ -7,3 +7,4 @@ myscreen.refresh()
 myscreen.getch()
 
 curses.endwin()
+#as;ldfkja;lsdkjfsa;ldkfjas;ldkfja;lskdfjas;dlkfj
